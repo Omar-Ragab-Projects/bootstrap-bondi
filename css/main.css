@@ -50,6 +50,7 @@ body {
 /* Start Nav Bar */
 .navbar {
   background-color: var(--dark-color);
+  z-index: 1050;
 }
 .navbar .navbar-nav .nav-link {
   color: white;
